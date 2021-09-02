@@ -1,0 +1,32 @@
+{
+    "name": "app.global.js",
+    "version": "1.0.0",
+    "description": "TODO",
+    "contributors": [
+        {
+            "name": "Sergei",
+            "email": "classtype@mail.ru"
+        }
+    ],
+    "main": "src/app.global.js",
+    "homepage": "http://github.com/classtype/app.global.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/app.global.js.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/app.global.js/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/app.global.js/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "client",
+        "global",
+        "js",
+        "html"
+    ]
+}
