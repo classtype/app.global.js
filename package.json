@@ -1,7 +1,7 @@
 {
     "name": "app.global.js",
-    "version": "1.0.0",
-    "description": "TODO",
+    "version": "1.0.1",
+    "description": "App.global.js — содержит набор полезных инструментов для повседневной разработки.",
     "contributors": [
         {
             "name": "Sergei",
